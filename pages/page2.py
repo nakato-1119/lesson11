@@ -48,3 +48,4 @@ if st.button("空気"):
 if st.button("ジグソーブロック"):
     st.success("jigsaw")
 st.success("木によって違うブロックは木のIDとブロックのIDを合わせて使ってください。[例：オークの木材ならオークと木材のIDを合わせてoak_planks]間は[_]で。")
+st.error("参考:nishiのマイクラ攻略")
